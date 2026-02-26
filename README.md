@@ -1,6 +1,26 @@
-## Hi there 👋
+## Hi👋, I'm Felipe León
 
+Software Developer | Specialized in Full Stack Development
+
+## 💻 Technology stack
+
+### Languages
+![Static Badge](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![Static Badge](https://img.shields.io/badge/Typescript-00273F?style=for-the-badge&logo=typescript)     
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=f5f5f5)
+
+### Frontend
+
+![Static Badge](https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=react) 
+![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![Static Badge](https://img.shields.io/badge/Tailwind_CSS-030712?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+
+![Static Badge](https://img.shields.io/badge/Node_Js-256E35?style=for-the-badge&logo=nodedotjs&logoColor=f5f5f5)
 <!--
+![Static Badge](https://img.shields.io/badge/)
+?style=for-the-badge&logo=
+
 **debliondev/debliondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
