@@ -16,11 +16,18 @@ Software Developer | Specialized in Full Stack Development
 
 ### Backend
 
-![Static Badge](https://img.shields.io/badge/Node_Js-256E35?style=for-the-badge&logo=nodedotjs&logoColor=f5f5f5)
+![Static Badge](https://img.shields.io/badge/Node_Js-256E35?style=for-the-badge&logo=nodedotjs&logoColor=f5f5f5) ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+
+
+### Tools & Workflow
+
+![Static Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=f5f5f5)
+![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
 <!--
 ![Static Badge](https://img.shields.io/badge/)
 ?style=for-the-badge&logo=
-
+#FCC624
 **debliondev/debliondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
