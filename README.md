@@ -1,6 +1,7 @@
 ### Hi👋, I'm Felipe León
 
-<img width="1584" height="396" alt="deblion_dark_banner_v3" src="https://github.com/user-attachments/assets/e60c915b-3012-4ece-9d9e-5cd66d6d0c75" />
+<img width="1584" height="396" alt="deblion_dark_banner_v4" src="https://github.com/user-attachments/assets/c6658526-9117-4888-8de4-eda01e718597" />
+
 
 
 ## 💻 Technology stack
