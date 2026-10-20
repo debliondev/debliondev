@@ -16,16 +16,25 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![Static Badge](https://img.shields.io/badge/Typescript-00273F?style=for-the-badge&logo=typescript) ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=f5f5f5)
 
 ![Static Badge](https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=react) 
+![Static Badge](https://img.shields.io/badge/Vue.js-2A3642?style=for-the-badge&logo=vuedotjs)
 ![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![Static Badge](https://img.shields.io/badge/Astro-19124F?style=for-the-badge&logo=astro&logoColor=f5f5f5)
 ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-030712?style=for-the-badge&logo=tailwindcss)
+![Static Badge](https://img.shields.io/badge/Angular-C425DD?style=for-the-badge&logo=angular&logoColor=f5f5f5)
+![Static Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=f5f5f5)
 
-![Static Badge](https://img.shields.io/badge/Node_Js-256E35?style=for-the-badge&logo=nodedotjs&logoColor=f5f5f5) ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/Node_Js-256E35?style=for-the-badge&logo=nodedotjs&logoColor=f5f5f5) 
+![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=f5f5f5)
+
 
 ![Static Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=f5f5f5)
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 
 <!--
+
+
 ![Static Badge](https://img.shields.io/badge/)
 ?style=for-the-badge&logo=
 #FCC624
